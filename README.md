@@ -1,3 +1,4 @@
+This project was created as part of a school assignment.
 🏓 Pong Game in C (ncurses)
 
 A simple terminal-based Pong game written in C using the ncurses library.
